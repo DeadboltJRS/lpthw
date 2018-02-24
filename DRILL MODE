@@ -1,0 +1,5 @@
+arc = 20
+spark = 30
+tile = arc + spark
+butt = 20.5
+dance = butt * arc
